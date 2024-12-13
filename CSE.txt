@@ -1,0 +1,2 @@
+capital of india?|delhi|vizag|hyderabad|none|a|100|
+what is capital of UK?|London|Delhi|England|America|a|100|
